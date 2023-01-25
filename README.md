@@ -1,7 +1,7 @@
 # GIT-ASSIGNMENT
 # Git Assignment - Building a branching model
 
-![image](https://user-images.githubusercontent.com/123494344/214637468-d4d7f284-ecb4-43c1-b419-dff57ee12090.png)
+
 <p align = "center">
 Fig.1 - History of Commits in my Repository.
 </p>
