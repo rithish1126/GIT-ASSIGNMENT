@@ -3,7 +3,8 @@
 
 
 <p align = "center">
-Fig.1 - History of Commits in my Repository.
+Fig.1 - History of Commits in my Repository.<img width="1440" alt="Screenshot 2023-01-26 at 1 36 39 AM" src="https://user-images.githubusercontent.com/122535424/214677831-337fd6f4-1ec6-4e2d-9a2d-3d1258070962.png">
+
 </p>
 
 It contains 5 Branches - 
